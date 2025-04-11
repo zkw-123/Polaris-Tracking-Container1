@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>ros2_ndi_tracker</name>
+  <version>0.0.1</version>
+  <description>ROS 2 wrapper for NDI tracker</description>
+  <maintainer email="user@example.com">user</maintainer>
+  <license>BSD</license>
+  <depend>rclpy</depend>
+  <depend>geometry_msgs</depend>
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
